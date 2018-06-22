@@ -1,5 +1,5 @@
 import requests
-
+import csv
 
 def doit(url):
     flag = False
